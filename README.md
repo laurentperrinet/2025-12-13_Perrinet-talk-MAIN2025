@@ -6,8 +6,7 @@
 👁️ What if CNNs could see like humans? Our new work shows how foveated vision—concentrating processing at gaze center—makes networks more robust to perturbations & great at localization. Inspired by human vision's architecture (high-resolution foveal center, low-resolution periphery), we embedded this retinotopic transformation into CNN architectures, allowing to actively scan the image. This gives literally a new look to #ConvNets !
 
 📄 Paper: 
-{{< cite page="publication/jeremie-25" view="4" >}}
-
+🔗 https://laurentperrinet.github.io/publication/jeremie-25/
 
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
 
